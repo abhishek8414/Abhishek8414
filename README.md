@@ -1,205 +1,227 @@
+
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Abhishek Sharma Header" />
+  <img src="assets/header.svg" width="100%" alt="Abhishek Sharma - Developer Banner" />
+</p>
+
+<h1 align="center">Hey, I'm Abhishek Sharma 👋</h1>
+
+<h3 align="center">
+  Full-Stack Developer | Java Programmer | Problem Solver
+</h3>
+
+<p align="center">
+  <a href="https://github.com/abhishek8414">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&height=45&lines=Building+projects+and+learning+every+day;Turning+ideas+into+real-world+applications;Java+%7C+JavaScript+%7C+Full+Stack+Development;Improving+DSA+one+problem+at+a+time" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abhishek8414">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Abhishek%20Sharma%20%F0%9F%91%8B;B.Tech%20CSE%20Student%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;Java%20%26%20JavaScript%20Developer%20%E2%98%95;Building%20Projects%20and%20Solving%20DSA%20Problems%20%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-sharma67/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Abhishek2930/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-sharma67/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Abhishek2930/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /></a>
-  &nbsp;
-  <a href="https://github.com/abhishek8414" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek8414&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek8414&style=flat-square&color=EF4444&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+<!-- ===================== ABOUT ===================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Learning.+Building.+Improving.+One+project+at+a+time." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding animation" />
+
+- 🎓 B.Tech Computer Science & Engineering student
+- 🏫 Maharishi Markandeshwar (Deemed to be University)
+- 💻 Interested in Full-Stack Web Development
+- ☕ Practicing Java & Data Structures and Algorithms
+- 🌱 Currently improving my development and problem-solving skills
+- 🚀 Building projects to turn ideas into practical applications
+- 🎯 Goal: Become a skilled Software Developer and contribute to impactful projects
+
+<br clear="right"/>
+
+> **"Consistency beats motivation. Keep building, keep learning."**
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-<p align="center">
-  Hey! I'm <b>Abhishek Sharma</b>, a <b>B.Tech Computer Science & Engineering student</b> at <b>Maharishi Markandeshwar (Deemed to be University)</b>.<br />
-  I enjoy building practical web applications, learning backend development, and improving my problem-solving skills through DSA.
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Learning_%26_Building-111111?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-DC2626?style=flat-square" alt="Degree" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_DSA-111111?style=flat-square" alt="Focus" />
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<p align="center">
-  💬 <b>Let's Discuss:</b> Java, JavaScript, Web Development, Node.js, MongoDB, MySQL & DSA.<br />
-  ⚡ <b>Goal:</b> Keep learning, build useful software, and grow as a software developer.
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
 </p>
 
-<table width="100%" border="0" align="center">
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🎥 Main Project</h4>
-  <p><b>Online Video Conferencing Web App</b><br /><sub>WebRTC-based real-time video communication</sub></p>
+<td width="50%" valign="top">
+
+### 🎥 Online Video Conferencing
+
+A real-time video conferencing application inspired by modern meeting platforms.
+
+**Features**
+- Real-time video communication
+- WebRTC-based peer connection
+- Virtual background exploration
+- Noise cancellation feature exploration
+
+**Tech Stack**
+
+`React` `WebRTC` `JavaScript` `Node.js` `Express` `MongoDB`
+
 </td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🏠 Other Project</h4>
-  <p><b>PGSaathi</b><br /><sub>PG & rental room finder application</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🧑‍💻 Internship</h4>
-  <p><b>Cognifyz Technologies</b><br /><sub>Frontend Development Internship</sub></p>
-</td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>📚 Current Learning</h4>
-  <p><b>DSA & Full-Stack Development</b><br /><sub>Java, JavaScript, Node.js & MongoDB</sub></p>
-</td>
-</tr>
-</table>
 
----
+<td width="50%" valign="top">
 
-<h2 align="center">🔴 Featured Projects</h2>
+### 🏠 PGSaathi
 
-<table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 18px;">
-  <h3>🎥 Online Video Conferencing Web App</h3>
-  <p>A real-time video conferencing web application inspired by modern meeting platforms. Built to explore browser-based real-time communication and collaborative features.</p>
-  <p><b>Tech:</b> React, WebRTC, JavaScript, Node.js, Express.js, MongoDB</p>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 18px;">
-  <h3>🏠 PGSaathi — PG & Rental Room Finder</h3>
-  <p>A platform concept designed to help students and people moving to a new city discover PGs and rental rooms based on their requirements.</p>
-  <p><b>Tech:</b> Java, Android Studio, MongoDB</p>
-</td>
-</tr>
-</table>
+A PG and rental room finder designed to help students and newcomers find suitable accommodation.
 
----
+**Features**
+- PG & rental room discovery
+- Location-based search concept
+- Property information
+- User-friendly Android application
 
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
+**Tech Stack**
 
-<p align="center"><i>Practicing DSA and improving algorithmic problem-solving skills.</i></p>
+`Java` `Android Studio` `MongoDB`
 
-<p align="center">
-  <a href="https://leetcode.com/u/Abhishek2930/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Abhishek2930?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Abhishek2930/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<p align="center"><b>Programming Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" width="100%" style="max-width: 300px;" alt="Programming Languages" /></a>
-</p>
-
-<p align="center"><b>Frontend & Web Development</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="100%" style="max-width: 360px;" alt="Frontend Skills" /></a>
-</p>
-
-<p align="center"><b>Backend & Databases</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" width="100%" style="max-width: 360px;" alt="Backend and Database Skills" /></a>
-</p>
-
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" width="100%" style="max-width: 360px;" alt="Development Tools" /></a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishek8414&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishek8414&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek8414&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<p align="center"><i>Feel free to connect with me for collaboration, projects, coding discussions, or opportunities.</i></p>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/abhishek-sharma67/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br />
-  <sub><b>Professional Network</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://leetcode.com/u/Abhishek2930/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  <br />
-  <sub><b>DSA & Problem Solving</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://github.com/abhishek8414" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/GitHub-Projects-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <br />
-  <sub><b>Projects & Code</b></sub>
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+## 💼 Internship Experience
+
+### Frontend Development Intern — Cognifyz Technologies
+
+- Gained practical experience in frontend development.
+- Worked on web application development concepts.
+- Improved implementation and UI development skills.
+- Applied development knowledge in project-based tasks.
+
+---
+
+<!-- ===================== DSA ===================== -->
+
+## 🧠 Problem Solving
+
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <a href="https://leetcode.com/u/Abhishek2930/">
+    <img src="https://leetcard.jacoblin.cool/Abhishek2930?theme=dark&font=Karma&border=0&radius=12" alt="LeetCode stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Abhishek2930/">
+    <img src="https://img.shields.io/badge/Explore_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+- Practicing Data Structures and Algorithms using Java.
+- Learning patterns for arrays, strings, searching, sorting, and more.
+- Focused on writing efficient and understandable code.
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=abhishek8414&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishek8414&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek8414&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" alt="GitHub streak" />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+<p align="center">
+  <img src="assets/quote.svg" width="100%" alt="Developer quote" />
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>I'm always open to learning, collaborating, building projects, and connecting with fellow developers.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhishek8414">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-sharma67/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Abhishek2930/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer banner" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <b>Learn • Build • Solve • Repeat 🚀</b>
 </p>
